@@ -1,4 +1,4 @@
-from test import TestComponent
+from unit import TestComponent
 from pymtl3 import *
 from pymtl3.passes.backends.yosys import YosysTranslationPass
 
